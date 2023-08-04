@@ -1,0 +1,61 @@
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.GeneratedMSBuildEditorConfig.editorconfig
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.AssemblyInfoInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.AssemblyInfo.cs
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.csproj.CoreCompileInputs.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.MvcApplicationPartsAssemblyInfo.cs
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.MvcApplicationPartsAssemblyInfo.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\appsettings.Development.json
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\appsettings.json
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.exe
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.deps.json
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.runtimeconfig.json
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.runtimeconfig.dev.json
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\ref\Product Mini.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Product Mini.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Humanizer.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\staticwebassets\Product Mini.StaticWebAssets.Manifest.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\staticwebassets\Product Mini.StaticWebAssets.xml
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\scopedcss\bundle\Product Mini.styles.css
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.RazorTargetAssemblyInfo.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.csproj.CopyComplete
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\ref\Product Mini.dll
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.pdb
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.genruntimeconfig.cache
+C:\my data\OneDrive - Arrow Electronics, Inc\Documents\Practice .net\Product Mini\Product Backend\Product Mini\obj\Debug\net5.0\Product Mini.csproj.AssemblyReference.cache
